@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Election Greetings</title>
+    <link rel="stylesheet" href="/css/style.css" />
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="/css/style.css" />
+  </head>
+  <body>
+    <div
+      style="width: 100vw; height: 100vh; background-color: #9BA17B"
+      class="flex items-center flex-col content-center justify-center"
+    >
+      <div class="mt-6">
+        <h1 class="text-3xl font-bold text-center">
+           Your Vote Successfully Registered👍👍
+        </h1>
+        <p class="text-xl text-gray-700 mt-4 font-bold text-center">
+          Result is announced at the end of election
+        </p>
+      </div>
+      <div class="flex justify-center mt-4">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0eRbbGfjBNhB9VfYt9AhxhtXA00Mnd1ISr_Q7Skw8uz7hzVPETydI_2Kp4aOZxZu5Kwc&usqp=CAU" alt="ThankYou" />
+      </div>
+      <div class="mt-5">
+        <a
+          href="/signout/<%= election.url %>/voter"
+          class="font-bold text-white bg-red-700 px-3 py-2 rounded"
+        >
+          Sign Out
+        </a>
+      </div>
+    </div>
+  </body>
+</html>
