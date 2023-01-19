@@ -33,6 +33,7 @@ app.use(
   })
 );
 
+
 app.use(passport.initialize());
 app.use(passport.session());
 
@@ -73,6 +74,7 @@ passport.use(
   )
 );
 
+
 passport.use(
   "voter-local",
   new LocalStrategy(
@@ -110,6 +112,7 @@ passport.use(
     }
   )
 );
+
 
 passport.serializeUser((user, done) => {
   console.log(user);
