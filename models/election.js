@@ -66,6 +66,7 @@ module.exports = (sequelize, DataTypes) => {
       );
     }
 
+
     static remove(id, adminId) {
       this.destroy({
         where: {
@@ -75,6 +76,7 @@ module.exports = (sequelize, DataTypes) => {
       });
     }
   }
+
   Election.init(
     {
       title: DataTypes.STRING,
@@ -87,5 +89,6 @@ module.exports = (sequelize, DataTypes) => {
       modelName: "Election",
     }
   );
+  
   return Election;
 };
