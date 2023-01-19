@@ -22,6 +22,7 @@ async function login(agent, username, password) {
   });
 }
 
+
 describe("Test case for database", () => {
   beforeAll(async () => {
     await db.sequelize.sync({ force: true });
@@ -59,6 +60,7 @@ describe("Test case for database", () => {
     res = await agent.get("/listofElection");
     expect(res.statusCode).toBe(302);
   });
+  
 
   test("admin log in", async () => {
     var agent = request.agent(server);
