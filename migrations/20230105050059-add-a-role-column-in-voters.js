@@ -8,7 +8,6 @@ module.exports = {
       defaultValue: "voter",
     });
   },
-
   async down(queryInterface, Sequelize) {
     await queryInterface.removeColumn("Voters", "role");
   },
