@@ -1,4 +1,4 @@
-#Online_Voting_app
+Online Voting Application
 
 Created a online voting paltform that enables a admin to login with their details and after login the registered admin can be able to create a election. for the election creation the admin should must add two questions and atleast two options to vote for the elections . After creating the elections, we should add the minimum of two voters.Then the admin can launch the election, After that the voters can login into the account using the voter id and password. And the voters can vote to their respective leaders, After ending the elction the users can login and know the winners.
 
@@ -16,7 +16,7 @@ SCREENSHOTS
 ![WP8](https://user-images.githubusercontent.com/85097031/214033872-b40757de-c446-4611-ae37-bef1d808f8a8.png)
 ![WP9](https://user-images.githubusercontent.com/85097031/214033889-2f317083-43ac-42b5-8c4f-55f8376120f2.png)
 
-Live URL of the Application:
+Live Application Url
 https://pavans-online-voting-app.onrender.com
 
 Video Demonstration of the Application:
