@@ -18,7 +18,6 @@ module.exports = (sequelize, DataTypes) => {
         order: [["id", "ASC"]],
       });
     }
-
     static addOption({ optionName, queid }) {
       console.log("id : ", queid);
       return this.create({
@@ -26,7 +25,6 @@ module.exports = (sequelize, DataTypes) => {
         queid: queid,
       });
     }
-
     updating(optionName) {
       console.log("value = ", optionName);
       return this.update({ optionName: optionName });
