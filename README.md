@@ -7,6 +7,7 @@ Create an election for your college or organization in seconds.
 It is a, fast and automatic calculation of votes with immediate results.
 
 SCREENSHOTS
+
 ![WP1](https://user-images.githubusercontent.com/85097031/214033609-852e7706-bee9-498c-b5b1-75683debcf32.png)
 ![WP2](https://user-images.githubusercontent.com/85097031/214033615-6eae36b9-fc28-47fb-9405-f48c12be2749.png)
 ![WP3](https://user-images.githubusercontent.com/85097031/214033629-5c4f92b3-fe4a-4c1c-949f-9f24e6029df2.png)
@@ -17,7 +18,9 @@ SCREENSHOTS
 ![WP9](https://user-images.githubusercontent.com/85097031/214033889-2f317083-43ac-42b5-8c4f-55f8376120f2.png)
 
 Live Application Url :
+
 https://pavans-online-voting-app.onrender.com
 
 Video Demonstration of the Application :
+
 https://www.loom.com/share/811ef4985a7a4928ba84e4d14481c2e9
