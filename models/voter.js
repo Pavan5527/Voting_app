@@ -24,6 +24,7 @@ module.exports = (sequelize, DataTypes) => {
       });
     }
 
+
     static voting(electionId) {
       return this.findAll({
         where: {
@@ -69,6 +70,7 @@ module.exports = (sequelize, DataTypes) => {
       });
     }
   }
+  
   Voter.init(
     {
       voterId: {
