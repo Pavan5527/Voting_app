@@ -28,6 +28,7 @@ module.exports = (sequelize, DataTypes) => {
       });
     }
 
+
     static updateQuetion({ id, title, description }) {
       return this.update(
         { title, description },
@@ -47,6 +48,7 @@ module.exports = (sequelize, DataTypes) => {
       });
     }
   }
+  
   Quetion.init(
     {
       title: DataTypes.STRING,
