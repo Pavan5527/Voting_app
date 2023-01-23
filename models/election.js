@@ -66,7 +66,6 @@ module.exports = (sequelize, DataTypes) => {
       );
     }
 
-
     static remove(id, adminId) {
       this.destroy({
         where: {
