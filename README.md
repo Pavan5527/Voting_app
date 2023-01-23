@@ -1,6 +1,6 @@
 #Online_Voting_app
 
-Created a online voting paltform that enables a admin to login with their details and after login the registered admin can be able to create a election. for the election creation the admin should must add two questions and atleast three voters to vote for the elections . After creating the elections the users can login into the accout using the voter id and password. Seperate function is created to created user id and password. the admin and launch and end the election at any time. After ending the elction the users can login and know the winners.
+Created a online voting paltform that enables a admin to login with their details and after login the registered admin can be able to create a election. for the election creation the admin should must add two questions and atleast two options to vote for the elections . After creating the elections, we should add the minimum of two voters.Then the admin can launch the election, After that the voters can login into the account using the voter id and password. And the voters can vote to their respective leaders, After ending the elction the users can login and know the winners.
 
 It is  Efficient & Secure online voting platform.
 Create an election for your college or organization in seconds.
