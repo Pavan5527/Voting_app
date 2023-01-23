@@ -25,6 +25,7 @@ module.exports = (sequelize, DataTypes) => {
       );
     }
   }
+
   Admin.init(
     {
       firstName: {
@@ -46,6 +47,7 @@ module.exports = (sequelize, DataTypes) => {
           },
         },
       },
+      
       password: DataTypes.STRING,
       role: DataTypes.STRING,
     },
