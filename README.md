@@ -6,7 +6,8 @@ It is  Efficient & Secure online voting platform.
 Create an election for your college or organization in seconds.
 It is a, fast and automatic calculation of votes with immediate results.
 
-SCREENSHOTS![WP1](https://user-images.githubusercontent.com/85097031/214033609-852e7706-bee9-498c-b5b1-75683debcf32.png)
+SCREENSHOTS
+![WP1](https://user-images.githubusercontent.com/85097031/214033609-852e7706-bee9-498c-b5b1-75683debcf32.png)
 ![WP2](https://user-images.githubusercontent.com/85097031/214033615-6eae36b9-fc28-47fb-9405-f48c12be2749.png)
 ![WP3](https://user-images.githubusercontent.com/85097031/214033629-5c4f92b3-fe4a-4c1c-949f-9f24e6029df2.png)
 ![WP4](https://user-images.githubusercontent.com/85097031/214033775-fccadff3-de29-4dd1-a4b0-c489ac3c918f.png)
